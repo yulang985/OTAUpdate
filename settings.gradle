@@ -1,0 +1,7 @@
+include ':ui'
+include ':otaupdate'
+include ':app'
+rootProject.name = "OTAUpdate"
+include ':otalib'
+include ':blelib'
+include ':netlib'
